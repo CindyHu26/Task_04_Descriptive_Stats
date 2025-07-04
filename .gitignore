@@ -1,0 +1,37 @@
+
+---
+
+## `.gitignore`（中英文註解）
+
+```gitignore
+# 忽略所有原始資料集檔案 (請勿上傳) / Ignore all raw dataset files (Do NOT upload)
+*.csv
+*.xlsx
+*.json
+*.zip
+*.tar.gz
+*.docx
+
+# Jupyter Notebook 檢查點 / Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python 快取檔 / Python cache files
+__pycache__/
+*.pyc
+
+# VSCode 與其他編輯器設定 / Editor settings
+.vscode/
+*.swp
+
+# 作業系統產生檔 / OS-generated files
+.DS_Store
+Thumbs.db
+
+# 圖片與輸出（若非必要請勿上傳） / Images and outputs (avoid uploading unless necessary)
+*.png
+*.jpg
+
+# 分析結果（如不想版本控可加上）/ Analysis outputs (add if you don't want to version control)
+analysis_results.json
+
+# 你可依需求再自行擴充 / Add more rules as needed
