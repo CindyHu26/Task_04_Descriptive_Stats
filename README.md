@@ -1,7 +1,7 @@
 # Task\_04\_Descriptive\_Stats
 
 This project aims to build a data summarizing system to explore and summarize a real-world dataset.
-The core task is to perform descriptive statistical analysis on social media data related to the 2024 US Presidential election using three different technical strategies—**Pure Python**, **Pandas**, and **Polars**—to produce identical numerical results. \[cite: 2, 4, 15, 16]
+The core task is to perform descriptive statistical analysis on social media data related to the 2024 US Presidential election using three different technical strategies—**Pure Python**, **Pandas**, and **Polars**—to produce identical numerical results.
 
 ---
 
